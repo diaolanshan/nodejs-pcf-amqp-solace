@@ -1,0 +1,14 @@
+{
+	"name":"nodejs-pcf-examples",
+	"version":"0.0.1",
+	"description":"Cloud Foundry + Solace + amqp example.",
+	"main":"app.js",
+	"author":"Eric Zhang",
+	"dependencies": {
+		"restify": "7.2.2",
+		"amqp10": "^3.5.3",
+		"bluebird": "^3.5.0",
+		"cfenv": "1.1.0",
+		"basic-auth": "2.0.1"
+	}
+}
