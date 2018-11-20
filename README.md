@@ -88,6 +88,6 @@ To create the queue:
     }
 ```
 
-How to publish messages, check the code under producer.py
+How to publish message, check the code under QueueProduer.py
 
-How to subscribe messages, check the consumer.py
+How to subscribe message, check the QueueConsumer.py
